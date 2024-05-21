@@ -1,48 +1,47 @@
-# Título do Projeto
+# VENDAFACIL
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`1º semestre de 2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Este projeto é uma iniciativa voltada para a otimização das operações financeiras de estabelecimentos comerciais que utilizam a máquina de cartão SIPAG do Sicoob. Com a crescente demanda por soluções ágeis e eficientes no setor de adquirência, reconhecemos a necessidade de desenvolver uma ferramenta que simplifique o acompanhamento e registro das transações realizadas por meio dessas máquinas. O "Venda Fácil" surge como resposta a essa demanda, oferecendo uma interface intuitiva e funcionalidades abrangentes para facilitar a gestão financeira dos nossos usuários.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* LUAN DE ALCANTARA ALVES
 
 ## Orientador
 
-* Nome completo do professor
+* WESLEY DIAS MACIEL
+
+## Instruções de utilização
+
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
 
 <ol>
-<li><a href="documentos/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="documentos/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="documentos/03-Metodologia.md"> Metodologia</a></li>
-<li><a href="documentos/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="documentos/05-Template padrão da Aplicação.md"> Template padrão da Aplicação</a></li>
-<li><a href="documentos/06-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="documentos/07-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="documentos/08-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="documentos/09-Referências.md"> Referências Bibliográficas</a></li>
+<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
+<li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
+<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
+<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Hospedagem
+# Código
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
-
-# Código-Fonte
-
-* <a href="codigo-fonte/README.md">Código Fonte</a>
+<li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
 
-* <a href="apresentacao/README.md">Apresentação do Projeto</a>
+<li><a href="presentation/README.md"> Apresentação da solução</a></li>

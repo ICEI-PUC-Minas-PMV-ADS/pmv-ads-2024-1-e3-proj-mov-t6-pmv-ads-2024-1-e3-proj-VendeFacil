@@ -1,75 +1,77 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+A abordagem de trabalho adotada pelo grupo para lidar com o problema se baseia principalmente na metodologia ágil, dando destaque ao framework Scrum. Isso envolve a realização de ciclos breves de desenvolvimento, conhecidos como sprints, nos quais as atividades são planejadas, executadas e revisadas de maneira iterativa e incremental. Dentro desse contexto, os membros da equipe assumem funções específicas, como Scrum Master, Product Owner e Time de Desenvolvimento, para assegurar uma gestão eficiente do projeto.
+
+### Desenvolvimento:
+
+No ambiente de trabalho, o time faz uso de ferramentas colaborativas online, como o GitHub para gerenciamento do código fonte. No GitHub, são criados repositórios para o projeto nos quais o código é tratador por meio de versões e as tarefas são coordenadas por meio de issues e projetos. Isso viabiliza uma colaboração eficaz entre os integrantes da equipe e garante transparência e rastreabilidade nas atividades realizadas.
+
+### Organização e comunicação:
+
+O time de desenvolvimento ainda utiliza outras ferramentas de comunicação e colaboração, como o Google Drive para compartilhamento de documentos e o Microsoft Planner para organização de tarefas e acompanhamento do progresso. Essas ferramentas auxiliam na coordenação das atividades, na troca de informações e no monitoramento do andamento do projeto. 
+
+A comunicação direta é realizada por meio de whatsapp e do uso da ferramenta Microsoft Teams para a condução de reuniões.
+ 
+
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito e são apresentados em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
+
+| Ambiente          | Plataforma        | Link de Acesso                            |
+|-------------------|-------------------|-------------------------------------------|
+| Desenvolvimento   | GitHub            | [Link](https://github.com/)               |
+| Colaboração       | Microsoft Teams   | [Link](https://www.microsoft.com/teams)  |
+| Documentação      | Google Docs       | [Link](https://docs.google.com/)         |
+| Design UX/UI      | Figma             | [Link](https://www.figma.com/)           |
+| Gerenciamento     | Trello            | [Link](https://trello.com/)              |
+| Comunicação       | Slack             | [Link](https://slack.com/)               |
+
+
+## Controle de Versão
+
+A ferramenta de controle de versão adotada no projeto foi o
+[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+foi utilizado para hospedagem do repositório.
+
+O projeto segue a seguinte convenção para o nome de branches:
+
+- `main`: versão estável já testada do software
+- `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+- `dev`: versão de desenvolvimento do software
+
+Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas:
+
+- `documentation`: melhorias ou acréscimos à documentação
+- `bug`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
 
 
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+- Scrum Master: Luan Alcantara;
+- Product Owner: Luan Alcantara;
+- Equipe de Desenvolvimento: Luan Alcantara;
+- Equipe de Design: Luan Alcantara.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
-
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+![image](https://github.com/hashtagluan/hashtagluan-pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-Luan/assets/128554958/b5440b34-6c0f-4cfd-9a4c-cdb9b2028065)
 
 
-### Etiquetas
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
-
-<ul>
-  <li>Bug (Erro no código)</li>
-  <li>Desenvolvimento (Development)</li>
-  <li>Documentação (Documentation)</li>
-  <li>Gerência de Projetos (Project Management)</li>
-  <li>Infraestrutura (Infrastructure)</li>
-  <li>Testes (Tests)</li>
-</ul>
-
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
-</figure> 
-  
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+As ferramentas empregadas no projeto são:
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+- Editor de código: VS code
+- Ferramentas de comunicação: Teams, Whatsaoo e Trello
+- Ferramentas de desenho de tela (_wireframing_)
 
-| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
-|-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
-
-
-### Estratégia de Organização de Codificação 
-
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte). Consulte também a nossa sugestão referente a estratégia de organização de codificação a ser adotada pela equipe de desenvolvimento do projeto.
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
